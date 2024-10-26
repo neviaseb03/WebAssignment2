@@ -50,5 +50,3 @@ Before running this application, ensure you have the following installed:
 - The blog posts will be displayed on the main page.
 
 ---
-
-Feel free to customize this README to better suit your project or to add any additional information you think might be useful! Let me know if you need any changes or further assistance. 😊
