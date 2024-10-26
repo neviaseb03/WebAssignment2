@@ -1,7 +1,3 @@
-Here's a sample **README.md** file that you can use for your PHP blog application. It provides clear instructions on how to set up and run the application after cloning.
-
----
-
 # Simple Blog Application
 
 A simple blog application built with PHP that allows users to create and view posts. This application utilizes Tailwind CSS for styling and a JSON file for storing posts.
